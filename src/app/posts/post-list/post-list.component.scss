@@ -1,0 +1,14 @@
+@import '../../../../scss/vars';
+
+:host {
+    display: block;
+    margin-top: $main-top-dist;
+}
+
+.info-text {
+    text-align: center;
+}
+
+mat-spinner {
+    margin: auto;
+}
